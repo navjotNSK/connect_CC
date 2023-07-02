@@ -12,7 +12,11 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class RegResponse {
-private String message;
+    private long regId;
+    private String name;
+    private String emailId;
+    private long phoneNo;
+    private String password;
 
 
 }

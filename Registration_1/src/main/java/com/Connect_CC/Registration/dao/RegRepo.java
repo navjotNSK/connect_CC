@@ -23,13 +23,13 @@ public interface RegRepo extends JpaRepository<RegEntity,Long>{
 //  @Param("status") Integer status, @Param("name") String name);:emailId
     @Query(value = "SELECT * FROM Reg_Table r WHERE r.EMAIL_ID = :emailId ",
             nativeQuery = true)
-     RegEntity findByEmail(
+     List<RegEntity> findByEmail(
             @Param("emailId") String emailId);
 
     // Both Reg_table and REG_TABLE working fine  and use REG_TABLE if in entity given table name other wise instead of Reg_Table use entity name which is REG_ENTITY . Check db for this
     @Query(value = "SELECT r.REG_ID FROM Reg_Table r WHERE r.EMAIL_ID = :emailId",
             nativeQuery = true)
-        Long finRegId(
+        Long findRegId(
             @Param("emailId") String emailId);
 
 //    @Query("SELECT u FROM User u WHERE u.status = 1")
