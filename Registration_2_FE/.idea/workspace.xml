@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84c0238b-8e50-40f1-9417-00667357b24f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/FrontEndController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/exception/CustomRegException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/exception/RestResponseEntityExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/model/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/validator/ValidatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/validator/ValidatorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Connect_CC/Registration/service/LoginServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Connect_CC/Registration/service/RegServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/RegistrationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/RegistrationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/config/ApplicationSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/config/ApplicationSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/constant/RegAPIConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/constant/RegAPIConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/RegController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/RegController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/response/RegResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/controller/response/RegResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/dao/RegRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/dao/RegRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/entity/RegEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/entity/RegEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/RegServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/RegServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/RegServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/RegServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\Practise\Connect_CC\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RbZXZ34VUHzgO6rB21sqfcezZv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Practise/Connect_CC/Registration_2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practise\Connect_CC\Registration_1\src\main\java\com\Connect_CC\Registration" />
+      <recent name="D:\Practise\Connect_CC\Registration\src\test\java\com\Connect_CC\Registration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RegistrationApplication">
+    <configuration name="RegistrationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Connect_CC.Registration.RegistrationApplication" />
+      <module name="Registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Connect_CC.Registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Connect_CC.Registration.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Connect_CC.Registration.service" />
+      <option name="MAIN_CLASS_NAME" value="com.Connect_CC.Registration.service.RegServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegServiceImplTest.getUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Connect_CC.Registration.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Connect_CC.Registration.service" />
+      <option name="MAIN_CLASS_NAME" value="com.Connect_CC.Registration.service.RegServiceImplTest" />
+      <option name="METHOD_NAME" value="getUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegServiceImplTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Connect_CC.Registration.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Connect_CC.Registration.service" />
+      <option name="MAIN_CLASS_NAME" value="com.Connect_CC.Registration.service.RegServiceImplTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in Registration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Registration" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Registration_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Registration_2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegistrationApplication" />
+        <item itemvalue="JUnit.java in Registration" />
+        <item itemvalue="JUnit.RegServiceImplTest.getUser" />
+        <item itemvalue="JUnit.RegServiceImplTest" />
+        <item itemvalue="JUnit.RegServiceImplTest.saveUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c0238b-8e50-40f1-9417-00667357b24f" name="Changes" comment="" />
+      <created>1687520781735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687520781735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/LoginServiceImpl.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Connect_CC/Registration/service/RegServiceImpl.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Registration$LoginServiceImplTest_login.ic" NAME="LoginServiceImplTest.login Coverage Results" MODIFIED="1687799424799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Connect_CC.Registration.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Registration$RegServiceImplTest_getUser.ic" NAME="RegServiceImplTest.getUser Coverage Results" MODIFIED="1687802020218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Connect_CC.Registration.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Registration$java_in_Registration.ic" NAME="java in Registration Coverage Results" MODIFIED="1687802049057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Registration$RegServiceImplTest_saveUser.ic" NAME="RegServiceImplTest.saveUser Coverage Results" MODIFIED="1687801544683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Connect_CC.Registration.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Registration$RegServiceImplTest.ic" NAME="RegServiceImplTest Coverage Results" MODIFIED="1687801566565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Connect_CC.Registration.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>

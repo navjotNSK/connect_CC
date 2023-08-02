@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¯ÊÈ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ð¥¦îÿÿÿÿÿ
+W
+java:S6353
+"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÑÌ§¿ùÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(é®üùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¤ Äç
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(üÀ¥Ùüÿÿÿÿ

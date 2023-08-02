@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç¬Ýãúÿÿÿÿ8µ¹ÐÈ˜1
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(—Æ‚58ì¹ÐÈ˜1
+]	java:S1255"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¹ÐÈ˜1
+e
+java:S1128"HRemove this unused import 'java.util.concurrent.atomic.AtomicReference'.(×‡µó8õ¹ÐÈ˜1
