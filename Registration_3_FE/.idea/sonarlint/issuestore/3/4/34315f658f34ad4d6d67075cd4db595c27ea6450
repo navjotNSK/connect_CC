@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç¬İãúÿÿÿÿ8Îü…È˜1
+t
+java:S3655Y"RCall "regEntity.isPresent()" or "!regEntity.isEmpty()" before accessing the value.(Öşæ¥üÿÿÿÿ8ÉæÚ˜1
+]	java:S1254"<This block of commented-out lines of code should be removed.(øî¶Íøÿÿÿÿ8ÿ”ÑÈ˜1
+]	java:S125Q"<This block of commented-out lines of code should be removed.(İ‡·§øÿÿÿÿ8Ùü…È˜1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(¯áó²8Ùü…È˜1
+]	java:S125X"<This block of commented-out lines of code should be removed.(Ü°–Ëúÿÿÿÿ8Ùü…È˜1

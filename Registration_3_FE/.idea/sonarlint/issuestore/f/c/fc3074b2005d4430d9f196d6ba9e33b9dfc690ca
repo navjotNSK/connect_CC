@@ -1,0 +1,40 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ‡ìšúÿÿÿÿ8ÌéöÚ˜1
+f
+java:S1874""DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(‰Ê†Ôıÿÿÿÿ8çéöÚ˜1
+]	java:S125$"<This block of commented-out lines of code should be removed.(ıàÛŸüÿÿÿÿ8ñ””Û˜1
+X
+java:S6437L"6Revoke and change this password, as it is compromised.(ŠÕƒæùÿÿÿÿ8ùéöÚ˜1
+X
+java:S6437P"6Revoke and change this password, as it is compromised.(ğ©¬Íûÿÿÿÿ8ùéöÚ˜1
+;
+java:S1128"Remove this duplicated import.(–Ä€8½›Û˜1
+;
+java:S1128	"Remove this duplicated import.(ÊÁ¥8½›Û˜1
+z
+java:S1128
+"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8æµ¸Û˜1
+@
+java:S1128"Remove this duplicated import.(îŒúùÿÿÿÿ8½›Û˜1
+;
+java:S1128"Remove this duplicated import.(‚î‰Ş8Ü§”Û˜1
+@
+java:S1128"Remove this duplicated import.(¬²Úäşÿÿÿÿ8úéöÚ˜1
+@
+java:S1128"Remove this duplicated import.(ŸÜÑıÿÿÿÿ8ûéöÚ˜1
+;
+java:S1128"Remove this duplicated import.(–Ä€8çµ¸Û˜1
+;
+java:S1128"Remove this duplicated import.(ÊÁ¥8çµ¸Û˜1
+
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8çµ¸Û˜1
+@
+java:S1128"Remove this duplicated import.(îŒúùÿÿÿÿ8çµ¸Û˜1
+n
+java:S1128"QRemove this unused import 'org.springframework.security.web.SecurityFilterChain'.(Ï×ÜÌ8çµ¸Û˜1
+u
+java:S1128"XRemove this unused import 'org.springframework.security.config.Customizer.withDefaults'.(ÃÒş†8çµ¸Û˜1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8çµ¸Û˜1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8çµ¸Û˜1

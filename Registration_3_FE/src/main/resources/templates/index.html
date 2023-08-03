@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="ISO-8859-1">
+      <title> Connect CC </title>
+    <center><h1>Connect CC</h1></center>
+    <center> <h1>Welcome to Connect CC App</h1> </center>
+    <style>
+Body {
+  font-family: Calibri, Helvetica, sans-serif;
+  background-color: skyblue;
+}
+</style>
+
+</head>
+<body>
+<style>
+            h2 {
+                text-align: center;
+                text-size-adjust: auto;
+                font-family: sans-serif;
+            }
+            Body {
+  font-family: Calibri, Helvetica, sans-serif;
+  background-color: skyblue;
+}
+        </style>
+<a th:href="@{/usersPage}" <button class="regbutton" style="width:auto;"> Register </button> </a>
+<br>
+<br>
+<a th:href="@{/logPage}" <button class="regbutton" style="width:auto;" > Login </a>
+</nav>
+    <br>
+    <br>
+
+<div class="container">
+    <div class="box">
+        <a href="clubs.index.html">
+            <button class="button">
+                <span>clubs</span>
+                <img src="fan-club.png" />
+            </button>
+        </a>
+        <a href=" ">
+            <button class="button">
+                <span>Groups</span>
+                <img src="chat-group.png" alt="Icon 2" />
+            </button>
+        </a>
+
+        <a th:href="@{http://localhost:8084/calPage}">
+            <button class="button">
+                <span>budget calculator</span>
+                <img src="calculator.png" alt="Icon 3" />
+            </button></a>
+
+        <button class="button">
+            <span>purchase</span>
+            <img src="empty-cart.png" alt="Icon 1" />
+        </button>
+    </div>
+</div>
+<style>
+
+
+    .regbutton {
+   display: inline;
+                justify-content: center;
+                align-items: center;
+                width: 20px;
+                height: 20px;
+                background-color: blue;
+                border-radius: 20px;
+                margin: 20px;
+                cursor: pointer;
+                border: none;
+                outline: none;
+            }
+            .container {
+                text-align: center;
+            }
+
+            .box {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                align-items: center;
+                width: 1000px;
+                border: 2px solid #000;
+                border-radius: 10px;
+                padding: 10px;
+                margin: auto;
+            }
+
+            .button {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 300px;
+                height: 300px;
+                background-color: #f0f0f0;
+                border-radius: 10px;
+                margin: 10px;
+                cursor: pointer;
+                border: none;
+                outline: none;
+            }
+
+                .button img {
+                    max-width: 100%;
+                    max-height: 100%;
+                }
+
+                .button:hover {
+                    background-color: #e0e0e0;
+                }
+        </style>
+
+</body>
+</html>

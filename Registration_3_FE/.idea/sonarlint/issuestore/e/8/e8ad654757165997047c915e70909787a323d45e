@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»™äó
+s
+java:S1128"VRemove this unused import 'com.Connect_CC.Registration.controller.request.RegRequest'.(ÁºÂû8»·“”š1
+f
+java:S1128"DRemove this unused import 'com.Connect_CC.Registration.dao.RegRepo'.(ğ‰‹ÿÿÿÿÿ8¼·“”š1
+q
+java:S1128"TRemove this unused import 'com.Connect_CC.Registration.service.RegServiceInterface'.(Ş‡Ç8¼·“”š1

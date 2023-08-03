@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="ISO-8859-1">
+    <title> Login Page </title>
+    <style>
+Body {
+  font-family: Calibri, Helvetica, sans-serif;
+  background-color: skyblue;
+}
+button {
+       background-color: #4CAF50;
+       width: 100%;
+        color: orange;
+        padding: 15px;
+        margin: 10px 0px;
+        border: none;
+        cursor: pointer;
+         }
+ form {
+        border: 3px solid #f1f1f1;
+    }
+ input[type=text], input[type=password] ,input[type=long] , input[type=email]{
+        width: 100%;
+        margin: 8px 0;
+        padding: 12px 20px;
+        display: inline-block;
+        border: 2px solid green;
+        box-sizing: border-box;
+    }
+ button:hover {
+        opacity: 0.7;
+    }
+  .cancelbtn {
+        width: auto;
+        padding: 10px 18px;
+        margin: 10px 5px;
+    }
+.message .success{
+    font-size: 20px;
+    color: green;
+    position: absolute;
+    animation: buttons .3s linear;
+    display: none;
+}
+.message .danger{
+    font-size: 20px;
+    color: red;
+    position: absolute;
+    transition: .3s;
+    animation: buttons .3s linear;
+    display: none;
+}
+
+ .container {
+        padding: 25px;
+        background-color: lightblue;
+    }
+</style>
+</head>
+<body>
+<center> <h1>Welcome to Connect CC App</h1> </center>
+<center> <h1> Student Registration Form </h1> </center>
+
+<form action="/usersPage/addUser" method="post">
+    <label for="name">First name :</label> <br/>
+    <input type="text" id="name" name="name"/> <br/>
+
+    <label for="emailId">Email :</label> <br/>
+    <input type="email" id="emailId" name="emailId"/> <br/>
+
+    <label for="phoneNo">Phone No :</label> <br/>
+    <input type="long"  id="phoneNo" name="phoneNo"/> <br/>
+
+    <label for="password">Password :</label> <br/>
+    <input type="password"  id="password" name="password"/> <br/>
+
+    <br/>
+    <button type="submit" id="submit" onclick=message()>Submit</button>
+    <br/>
+    <br/>
+    <div class="message">
+        <div class="success" id="success">Your Message Successfully Sent!</div>
+        <div class="danger" id="danger">Feilds Can't be Empty!</div>
+    </div>
+</form>
+<br/>
+<script src="/static/main.js"></script>
+</body>
+</html>

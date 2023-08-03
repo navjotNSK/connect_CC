@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»™äó8»Íó¾š1
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(«–·8ÆÍó¾š1
+j
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğŸ¹şÿÿÿÿ8ÈÍó¾š1
+j
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(û²Ùıüÿÿÿÿ8ÉÍó¾š1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¤—Àùÿÿÿÿ8ÊÍó¾š1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¤—Àùÿÿÿÿ8İšŠ¿š1
+k
+java:S1128"IRemove this unused import 'com.Connect_CC.Registration.entity.RegEntity'.(Ê¢™âùÿÿÿÿ8˜Æ‰¿š1
